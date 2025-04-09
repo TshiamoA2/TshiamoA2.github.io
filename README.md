@@ -1,2 +1,2 @@
-# TshiamoA2.github.io
+# Sunny Day
 A static website deployed by continious deployment
